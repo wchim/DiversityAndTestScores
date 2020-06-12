@@ -1,8 +1,11 @@
 # Diversity and Test Scores
 This is an extension of my first analytics project. 
 The original project focused on looking into demographic and examination scoring data during the 2011-12 school year. 
+The intention is to prove/disprove my hypothesis on whether diversity in student population correlates with better academic performance.
 
-The extension will focus on demographic and examination scoring data during the 2017-2018 school year and explore new techniques that I learned since.
+The extension will focus on demographic and examination scoring data during the 2017-2018 school year and explore new data visualization techniques that I learned since.
+
+This will primarily focus on exploratory data analysis (EDA).
 
 ## Constraints
 The original project focused on the 2011-12 school year because of a lack in data availability for state ELA examination scores for any school year beyond. 
